@@ -1,0 +1,187 @@
+body {
+  line-height: 1.62px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+a,
+a:link span {
+  color: #369
+}
+
+a:visited span {
+  color: #669;
+}
+
+.y-aItem:hover {
+  background: #369;
+  color: #fff;
+}
+
+.y-aItem:hover span {
+  color: #fff;
+}
+
+.y-aItem:active {
+  background: #ffa526;
+  color: #fff;
+}
+
+.y-aItem:active span {
+  color: #fff;
+}
+
+.y-float-left {
+  float: left;
+}
+
+.y-p-x-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.y-p-l-3 {
+  padding-left: 3px;
+}
+
+.y-p-l-5 {
+  padding-left: 5px;
+}
+
+.y-p-l-25 {
+  padding-left: 25px;
+}
+
+.y-p-r-5 {
+  padding-right: 5px;
+}
+
+.y-p-r-25 {
+  padding-right: 25px;
+}
+
+.y-m-y-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.y-m-t-12 {
+  margin-top: 12px;
+}
+
+.y-m-l-10 {
+  margin-left: 10px;
+}
+
+.y-m-l-n-30 {
+  margin-left: -30px;
+}
+
+.y-cl-bbb {
+  color: #bbb;
+}
+
+.y-cl-00a65f {
+  color: #00a65f;
+}
+
+.y-cl-666 {
+  color: #666;
+}
+
+.y-cl-e09015 {
+  color: #e09015;
+}
+
+.y-fs-12 {
+  font-size: 12px;
+}
+
+.y-fs-13 {
+  font-size: 13px;
+}
+
+.y-borderB-dashed-1 {
+  border-bottom: 1px dashed #ccc;
+}
+
+.y-py-12-px-0 {
+  padding: 12px 0px;
+}
+
+.y-ht-21 {
+  height: 21px;
+}
+
+.y-ht-42-lht-21 {
+  height: 42px;
+  line-height: 21px;
+}
+
+.y-text-overflow-e-n {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/*.y-overflow-h-n {*/
+/*overflow: hidden;*/
+/*text-overflow: clip;*/
+/*white-space: nowrap;*/
+/*}*/
+
+.y-start {
+  background: url("../img/ic_rating_s.png") no-repeat;
+  display: inline-block;
+  zoom: 1;
+  width: 102px;
+  height: 11px;
+  margin: 0 3px 0 0;
+  overflow: hidden;
+  background-size: 50%;
+}
+
+.y-start0 {
+  background-position: 0px 1px;
+}
+
+.y-start9 {
+  background-position: 0px -10px;
+}
+
+.y-start8 {
+  background-position: 0px -19px;
+}
+
+.y-start7 {
+  background-position: 0px -28px;
+}
+
+.y-start6 {
+  background-position: 0px -37px;
+}
+
+.y-start5 {
+  background-position: 0px -46px;
+}
+
+.y-start4 {
+  background-position: 0px -56px;
+}
+
+.y-start3 {
+  background-position: 0px -66px;
+}
+
+.y-start2 {
+  background-position: 0px -75px;
+}
+
+.y-start1 {
+  background-position: 0px -85px;
+}
